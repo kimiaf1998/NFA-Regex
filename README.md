@@ -20,8 +20,7 @@ A graphical Java program to find the largest accepted substring which is valid i
 
 ## Output
 
-
-<img src="https://user-images.githubusercontent.com/47594854/143402379-951db5c0-9c8f-4242-8afa-cba2377d2bec.png" width="300">
+<img src="https://user-images.githubusercontent.com/47594854/143494526-49138319-6acd-416c-ab2a-f93d61687fa4.png" width="300">
 
 
 ## Test the Code by Example
