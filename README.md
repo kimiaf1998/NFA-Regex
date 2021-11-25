@@ -20,7 +20,17 @@ A graphical Java program to find the largest accepted substring which is valid i
 
 ## Output
 
-<img src="https://user-images.githubusercontent.com/47594854/143494526-49138319-6acd-416c-ab2a-f93d61687fa4.png" width="300">
+
+**Pre-defined NFA :**
+<img src="https://user-images.githubusercontent.com/47594854/143494526-49138319-6acd-416c-ab2a-f93d61687fa4.png" width="400">
+
+**Samle Text:**
+
+In finance, technical analysis is an analysis methodology for forecasting
+
+**Result:**
+
+<img src="https://user-images.githubusercontent.com/47594854/143494818-1a98c712-f465-4dd4-bf66-bf947c982586.png" width="400">
 
 
 ## Test the Code by Example
