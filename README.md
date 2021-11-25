@@ -32,9 +32,13 @@ In finance, technical analysis is an analysis methodology for forecasting
 **Result:**
 
 By clicking ont **Details** button you are able to see the result.
+
 <img src="https://user-images.githubusercontent.com/47594854/143494818-1a98c712-f465-4dd4-bf66-bf947c982586.png" width="400">
 
 
 ## Test the Code by Example
 
 
+In **Data** sub-directory you can use sample text fine in order to see how the program works.
+
+``/data/sample.txt``
