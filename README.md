@@ -39,6 +39,6 @@ By clicking ont **Details** button you are able to see the result.
 ## Test the Code by Example
 
 
-In **Data** sub-directory you can use sample text fine in order to see how the program works.
+In **data** sub-directory you can use sample text fine in order to see how the program works.
 
 ``/data/sample.txt``
