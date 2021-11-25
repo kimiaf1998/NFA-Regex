@@ -22,6 +22,7 @@ A graphical Java program to find the largest accepted substring which is valid i
 
 
 **Pre-defined NFA :**
+
 <img src="https://user-images.githubusercontent.com/47594854/143494526-49138319-6acd-416c-ab2a-f93d61687fa4.png" width="400">
 
 **Samle Text:**
